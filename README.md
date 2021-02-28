@@ -1,2 +1,12 @@
 # Farmacia
-Projeto feito no bootcamp da Generation Brasil
+Exercício proposto no bootcamp Generation.
+
+Foi utilizado os seguintes conhecimentos:
+
+✔️Spring
+
+✔️MySQL
+
+✔️Postman
+
+✔️java
